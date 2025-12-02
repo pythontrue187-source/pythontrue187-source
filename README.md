@@ -12,9 +12,9 @@
 
 ![image](Photo/XRecorder_Edited_20251202_04.jpg)
 
-будет 
+**будет** 
 
-General
+**General
 Repository owner and name
 Owner(required)
 *
@@ -25,5 +25,5 @@ pythontrue187-source is available.
 Special profile readme repository
 pythontrue187-source/pythontrue187-source is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started
 только будет ваше имя 
-потом редактируйте и все
+потом редактируйте и все**
 
