@@ -2,4 +2,4 @@
 
 # шах 1 
 
-![Моё изображение](Photo/XRecorder_Edited_2025....jpg)
+![image](Photo/XRecorder_Edited_20251202_02.jpg)
