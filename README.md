@@ -3,3 +3,5 @@
 # шах 1 
 
 ![image](Photo/XRecorder_Edited_20251202_02.jpg)
+
+
